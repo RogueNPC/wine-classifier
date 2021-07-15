@@ -2,10 +2,11 @@
 
 # Table of Contents
 1. [Intro to Project](#intro)
-2. [Roadmap](#roadmap)
-3. [Purpose](#purpose)
-4. [Built With](#built)
-5. [How to Launch Project](#how-to)
+2. [Release Notes](#release-notes)
+3. [Roadmap](#roadmap)
+4. [Purpose](#purpose)
+5. [Built With](#built)
+6. [How to Launch Project](#how-to)
 
 <a name="intro"/>
 
@@ -14,6 +15,13 @@
 Wine Classifier uses a scikit-learn dataset to create classifier models that identify types of wine. The data is the results of a chemical analysis of wines grown in the same region in Italy by three different cultivators. There are thirteen different measurements taken for different constituents found in the three types of wine.
 
 ![](/images/spd1.5_capstone_homepage.png)
+
+<a name="release-notes"/>
+
+# Release Notes
+### v1.0.0    (Jul 13 2021)
+
+- 🎉 first release!
 
 <a name="roadmap"/>
 
