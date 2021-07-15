@@ -25,9 +25,11 @@ Wine Classifier uses a scikit-learn dataset to create classifier models that ide
 <!-- Look at Tristan's Lego -->
 In the future, I hope to develop this project so that:
 
-- Users can view model analysis through web application
+- Users can view model analysis through web application.
 
-- Explore unsupervised learning models
+- A User can input data features pertaining to a wine and let the model identify the wine fitting those data values.
+
+- The models can classify wines using unsupervised learning instead of their current supervised learning methods.
 
 <a name="purpose"/>
 
